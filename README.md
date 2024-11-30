@@ -15,7 +15,7 @@ A sleek, responsive password generator built using **ReactJS** and **Tailwind CS
 
 ## Demo 🚀
 
-[Live Demo]([https://your-demo-link.com](https://aamirali65.github.io/SafeCode-Password-Generator/))
+[Live Demo](https://aamirali65.github.io/SafeCode-Password-Generator/)
 
 ---
 
